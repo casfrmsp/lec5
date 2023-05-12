@@ -65,10 +65,9 @@ img{
 }
 .plan{
   margin-left: 20px;
-  font-family: 'Red Hat Display';
+  
 }
 .plan2{
-  font-weight:'Red Hat Display';
   font-weight: 900;
   font-style: 16px;
   color:#1F2E55;
@@ -80,7 +79,6 @@ img{
   margin-left: 100px;
 }
 .change{
-  font-family: 'Red Hat Display';
   color: #382AE1;
   font-weight: 700;
   font-style: 14px;
@@ -95,7 +93,6 @@ img{
   margin-top: 30px;
   border-radius: 11px;
   box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
-  font-family: 'Red Hat Display';
   font-weight: 900;
   font-style: 15px;
   color: white;
