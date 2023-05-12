@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Red Hat Display';
+}
+body{
+  background-color: #cddbff ;
+  background-image: url( assets/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  background-color: white;
+  width: 450px;
+  height: 697px;
+  border-radius: 20px;
+  align-items: center;
+  box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+}
+img{
+  border-radius: 20px 20px 0px 0px;
+}
+.box{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.text{
+  text-align: center;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 37px;
+  color: #1f2e55;
+  margin: 20px;
+}
+.text1{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #717fa6;
+  margin-top: 20px;
+ }
+.music{
+  background-color: #F7F9FF;
+  width: 345px;
+  height: 98px;
+  display: flex;
+  align-items: center;
+  border-radius: 11px;
+  margin: auto;
+  margin-top: 20px;
+}
+.musicicon{
+  width: 48px;
+  height: 48px;
+  margin-left: 20px;
+}
+.plan{
+  margin-left: 20px;
+  font-family: 'Red Hat Display';
+}
+.plan2{
+  font-weight:'Red Hat Display';
+  font-weight: 900;
+  font-style: 16px;
+  color:#1F2E55;
+}
+.change{
+  color:#382AE1;
+  font-weight: 700;
+  text-decoration: underline;
+  margin-left: 100px;
+}
+.change{
+  font-family: 'Red Hat Display';
+  color: #382AE1;
+  font-weight: 700;
+  font-style: 14px;
+  text-decoration: underline;
+  margin-left: 100px;
+}
+.payment{
+  background-color: #382AE1;
+  width: 345px;
+  height: 50px;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 11px;
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+  font-family: 'Red Hat Display';
+  font-weight: 900;
+  font-style: 15px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.cancel{
+  font-weight: 900;
+  font-size: 15px;
+  color: #717FA6;
+  text-align: center;
+}
